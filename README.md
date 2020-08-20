@@ -1,7 +1,7 @@
 <h2>Hey, guys! How are you?? I'm Geise Saunier</h2>
 
 <img align="left" src="https://media.giphy.com/media/dWmL1DJHoTCuwd7hXy/giphy.gif" width="120">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a></em></p>
+<p><em>Software Engineering at <a href="http://www.unb.br">University of Brasilia</a></em></p>
 
 [![Linkedin: GeiseSaunier](https://img.shields.io/badge/-GeiseSaunier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/GeiseSaunier/)](https://www.linkedin.com/in/GeiseSaunier/)
 [![GitHub Geise Saunier](https://img.shields.io/github/followers/GeiseSaunier?label=follow&style=social)](https://github.com/GeiseSaunier)
@@ -22,4 +22,4 @@ const Geise Saunier = {
 ```
 <br/>
 
-<p align="center"><b><em> That's an introduction about me. Anything, look me up on social media.</em></b></p>
+<p align="center"><b><em> That's an introduction about me. Anything else, look me up on the social media.</em></b></p>
