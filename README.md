@@ -1,16 +1,25 @@
-### Hi there 👋
+<h2>Hey, guys! How are you?? I'm Geise Saunier</h2>
 
-<!--
-**GeiseSaunier/GeiseSaunier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://media.giphy.com/media/dWmL1DJHoTCuwd7hXy/giphy.gif" width="120">
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a></em></p>
 
-Here are some ideas to get you started:
+[![Linkedin: GeiseSaunier](https://img.shields.io/badge/-GeiseSaunier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/GeiseSaunier/)](https://www.linkedin.com/in/GeiseSaunier/)
+[![GitHub Geise Saunier](https://img.shields.io/github/followers/GeiseSaunier?label=follow&style=social)](https://github.com/GeiseSaunier)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### A little bit about me
+
+```javascript
+const Geise Saunier = {
+  pronouns: "she" | "her",
+  code: [TypeScript, Python, Javascript],
+  tools: [ React Native, Node ],
+  techCommunities: { "Member of the Debian Brasília Community."},
+  Interests: { "Cybersecurity, Computer Forensics and Backend Development"},
+
+}
+```
+<br/>
+
+<p align="center"><b><em> That's an introduction about me. Anything, look me up on social media.</em></b></p>
