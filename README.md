@@ -1,4 +1,4 @@
-<h2>Hey, guys! How are you?? I'm Geise Saunier</h2>
+<h2>Hey, guys! How are you doing?? I'm Geise Saunier</h2>
 
 <img align="left" src="https://media.giphy.com/media/dWmL1DJHoTCuwd7hXy/giphy.gif" width="120">
 <p><em>Software Engineering at <a href="http://www.unb.br">University of Brasilia</a></em></p>
