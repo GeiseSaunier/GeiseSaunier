@@ -14,7 +14,7 @@
 const Geise Saunier = {
   pronouns: "she" | "her",
   code: [TypeScript, Python, Javascript],
-  tools: [ React Native, Node ],
+  tools: [ React Native, Node, Python ],
   techCommunities: { "Member of the Debian Brasília Community."},
   Interests: { "Cybersecurity, Computer Forensics and Backend Development"},
 
