@@ -13,14 +13,13 @@
 ```javascript
 const Geise Saunier = {
   pronouns: "she" | "her",
-  code: [TypeScript, Python, Javascript],
+  code: [TypeScript, Python, Javascript, Ruby, HTML, CSS],
   tools: [ React Native, Node,],
   techCommunities: "Member of the Debian Brasília Community,"
   Interests: "Cybersecurity, Computer Forensics and Backend Development," 
 }
 ```
 <br/>
-
 <h2>GitHub Stats  
 <img align="center" src="https://media.giphy.com/media/dt0VaZ4qZuaEuPesDZ/giphy.gif" width="120"></h2>
 
