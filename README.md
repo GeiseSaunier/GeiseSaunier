@@ -13,8 +13,8 @@
 ```javascript
 const Geise Saunier = {
   pronouns: "she" | "her",
-  code: [TypeScript, Python, Javascript, Ruby, HTML, CSS],
-  tools: [ React Native, Node],
+  code: [ TypeScript, Python, Javascript, Ruby, HTML, CSS ],
+  tools: [ React Native, Node ],
   techCommunities: {"Member of the Debian Brasília Community,"}
   Interests: {"Cybersecurity, Computer Forensics and Backend Development,"}
 }
