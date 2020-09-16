@@ -20,6 +20,7 @@ const Geise Saunier = {
 }
 ```
 <br/>
+
 <h2>GitHub Stats  
 <img align="center" src="https://media.giphy.com/media/dt0VaZ4qZuaEuPesDZ/giphy.gif" width="120"></h2>
 
@@ -30,7 +31,6 @@ const Geise Saunier = {
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeiseSaunier&layout=compact&theme=radical" />
 </a>
-
 
 
 <br/>
