@@ -15,11 +15,10 @@ const Geise Saunier = {
   pronouns: "she" | "her",
   code: [TypeScript, Python, Javascript],
   tools: [ React Native, Node,],
-  techCommunities: { "Member of the Debian Brasília Community."},
-  Interests: { "Cybersecurity, Computer Forensics and Backend Development"},
-
+  techCommunities: "Member of the Debian Brasília Community,"
+  Interests: "Cybersecurity, Computer Forensics and Backend Development," 
 }
-
+```
 <br/>
 
 <h2>GitHub Stats  
@@ -30,7 +29,7 @@ const Geise Saunier = {
 </a>
 <a href="https://github.com/GeiseSaunier/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marimendes&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeiseSaunier&layout=compact&theme=radical" />
 </a>
 ```
 <br/>
