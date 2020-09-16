@@ -31,7 +31,8 @@ const Geise Saunier = {
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeiseSaunier&layout=compact&theme=radical" />
 </a>
-```
+
+
 <br/>
 
 <p align="center"><b><em> That's an introduction about me. Anything else, look me up on the social media.</em></b></p>
