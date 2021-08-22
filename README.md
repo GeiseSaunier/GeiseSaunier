@@ -35,14 +35,8 @@ const Geise Saunier = {
   <img align="center" alt="Geise-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<div> 
-
-  <a href="https://instagram.com/sauniergeise" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "geisesaunier3939@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/geise-saunier-62a606143?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BvzCc3uMS0qYRKVy6CTQVw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/GeiseSaunier/blob/output/github-contribution-grid-snake.svg)
- 
+<div>
+   ![Snake animation](https://github.com/GeiseSaunier/GeiseSaunier/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
