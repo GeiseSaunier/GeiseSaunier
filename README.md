@@ -8,14 +8,54 @@
 
 <br/>
 
-### A little bit about me
+### My Tech Stack
 
-```javascript
-const Geise Saunier = {
-  code: [Java, Javascript, Ruby, Python],
-  tools: [Spring Boot, Node],
-  techCommunities: {"Member of the Debian Brasília Community,"}
-  Interests: {"Cybersecurity, Computer Forensics and Backend Development,"}
+```java
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+public class Main {
+    public static void main(String[] args) {
+        List<String> code = new ArrayList<>();
+        code.add("Java");
+        code.add("Javascript");
+        code.add("Ruby");
+        code.add("Python");
+
+        List<String> tools = new ArrayList<>();
+        tools.add("Spring Boot");
+        tools.add("Node");
+
+        Map<String, String> techCommunities = new HashMap<>();
+        techCommunities.put("Debian Brasília Community", "Member");
+
+        Map<String, String> interests = new HashMap<>();
+        interests.put("Cybersecurity", "Interest");
+        interests.put("Computer Forensics", "Interest");
+        interests.put("Backend Development", "Interest");
+
+        Map<String, Object> geiseSaunier = new HashMap<>();
+        geiseSaunier.put("code", code);
+        geiseSaunier.put("tools", tools);
+        geiseSaunier.put("techCommunities", techCommunities);
+        geiseSaunier.put("interests", interests);
+
+        // Database Technologies
+        Map<String, String> databaseTechnologies = new HashMap<>();
+        databaseTechnologies.put("Oracle", Oracle);
+        databaseTechnologies.put("MongoDB", MongoDB);
+        geiseSaunier.put("databaseTechnologies", databaseTechnologies);
+
+        // Additional Skills
+        List<String> additionalSkills = new ArrayList<>();
+        additionalSkills.add("Git", Git);
+        additionalSkills.add("Docker", Docker);
+        geiseSaunier.put("additionalSkills", additionalSkills);
+
+        System.out.println(geiseSaunier);
+    }
 }
 ```
 <br/>
