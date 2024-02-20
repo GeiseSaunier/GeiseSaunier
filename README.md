@@ -12,9 +12,8 @@
 
 ```javascript
 const Geise Saunier = {
-  pronouns: "she" | "her",
-  code: [ TypeScript, Python, Javascript, Ruby, HTML, CSS ],
-  tools: [ React Native, Node ],
+  code: [Java, Javascript, Ruby, Python],
+  tools: [Spring Boot, Node],
   techCommunities: {"Member of the Debian Brasília Community,"}
   Interests: {"Cybersecurity, Computer Forensics and Backend Development,"}
 }
