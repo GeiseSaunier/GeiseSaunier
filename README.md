@@ -1,6 +1,5 @@
 <h2>Hey, guys! How are you doing?? I'm Geise Saunier</h2>
 
-<img align="left" src="https://media.giphy.com/media/dWmL1DJHoTCuwd7hXy/giphy.gif" width="120">
 <p><em>Software Engineering student</em></p>
 
 [![Linkedin: GeiseSaunier](https://img.shields.io/badge/-GeiseSaunier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/GeiseSaunier/)](https://www.linkedin.com/in/GeiseSaunier/)
