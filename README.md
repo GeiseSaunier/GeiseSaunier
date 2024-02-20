@@ -5,8 +5,6 @@
 [![Linkedin: GeiseSaunier](https://img.shields.io/badge/-GeiseSaunier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/GeiseSaunier/)](https://www.linkedin.com/in/GeiseSaunier/)
 [![GitHub Geise Saunier](https://img.shields.io/github/followers/GeiseSaunier?label=follow&style=social)](https://github.com/GeiseSaunier)
 
-<br/>
-
 ### My Tech Stack
 
 ```java
