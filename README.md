@@ -2,7 +2,7 @@
 
 <p><em>Software Engineering Student</em></p>
 
-[![Linkedin: GeiseSaunier](https://img.shields.io/badge/-GeiseSaunier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/GeiseSaunier/)](https://www.linkedin.com/in/GeiseSaunier/)
+[![Linkedin: GeiseSaunier](https://img.shields.io/badge/-GeiseSaunier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/GeiseSaunier/)](https://www.linkedin.com/in/geise-saunier-62a606143)
 [![GitHub Geise Saunier](https://img.shields.io/github/followers/GeiseSaunier?label=follow&style=social)](https://github.com/GeiseSaunier)
 
 ### My Tech Stack
