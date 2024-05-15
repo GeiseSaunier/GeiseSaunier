@@ -1,80 +1,85 @@
 <h2>Hey, guys! How are you doing?? I'm Geise Saunier</h2>
 
-<p><em>Software Engineering Student</em></p>
-
-[![Linkedin: GeiseSaunier](https://img.shields.io/badge/-GeiseSaunier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/GeiseSaunier/)](https://www.linkedin.com/in/geise-saunier-62a606143)
-[![GitHub Geise Saunier](https://img.shields.io/github/followers/GeiseSaunier?label=follow&style=social)](https://github.com/GeiseSaunier)
-
-### My Tech Stack
-
-```java
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
-public class Main {
-    public static void main(String[] args) {
-        List<String> code = new ArrayList<>();
-        code.add("Java");
-        code.add("Javascript");
-        code.add("Ruby");
-        code.add("Python");
-
-        List<String> tools = new ArrayList<>();
-        tools.add("Spring Boot");
-        tools.add("Node");
-
-        Map<String, String> techCommunities = new HashMap<>();
-        techCommunities.put("Debian Brasília Community", "Member");
-
-        Map<String, String> interests = new HashMap<>();
-        interests.put("Cybersecurity", "Interest");
-        interests.put("Computer Forensics", "Interest");
-        interests.put("Backend Development", "Interest");
-
-        Map<String, Object> geiseSaunier = new HashMap<>();
-        geiseSaunier.put("code", code);
-        geiseSaunier.put("tools", tools);
-        geiseSaunier.put("techCommunities", techCommunities);
-        geiseSaunier.put("interests", interests);
-
-        // Database Technologies
-        Map<String, String> databaseTechnologies = new HashMap<>();
-        databaseTechnologies.put("Oracle", Oracle);
-        databaseTechnologies.put("MongoDB", MongoDB);
-        geiseSaunier.put("databaseTechnologies", databaseTechnologies);
-
-        // Additional Skills
-        List<String> additionalSkills = new ArrayList<>();
-        additionalSkills.add("Git", Git);
-        additionalSkills.add("Docker", Docker);
-        geiseSaunier.put("additionalSkills", additionalSkills);
-
-        System.out.println(geiseSaunier);
-    }
-}
-```
-<br/>
-
-<div>
-  <a href="https://github.com/GeiseSaunier">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeiseSaunier&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeiseSaunier&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Geise-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Geise-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Geise-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Geise-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Geise-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Geise-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=GeiseSaunier&show_icons=true&theme=bear&hide_border=true" width="410em" height="180em" align="left" border="none"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dridr1&layout=compact&theme=bear&hide_border=true" width="344em" height="180em" border="none" />
 
 <div>
   
    ![Snake animation](https://github.com/GeiseSaunier/GeiseSaunier/blob/output/github-contribution-grid-snake.svg)
   
   </div>
+
+## About me
+
+<img src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/coding_pixels.gif" align="right" height="140em"/>
+<ul>
+    <li>💻 Bachelor of Software Engineering</li>
+     <li>Educational Institutions: University of Brasília and Federal University of Amazonas</li>
+    <li>🌐 Backend Developer at Viltgroup 🌐</li>
+    <li> Currently, I work in web development with Java and Spring Boot, but I've begun studying .NET and JavaScript.</li>
+    <li>I love watching soccer, UFC, and I follow some F1 races, but I also adore playing Magic, dominoes, and billiards. </li>
+    <li>I'm using this profile to share personal projects</li>
+</ul>
+
+
+## Languages you can communicate with me
+* Brazilian Portuguese (native)
+* English (intermediate)
+* Spanish (basic)
+* Studying Korean
+
+
+## Languages and Tools
+
+### Front-end
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+![JSP](https://img.shields.io/badge/JSP-JavaServer%20Pages-007396?logo=java&style=for-the-badge)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+
+
+### Back-end & Databases
+![Java](https://img.shields.io/badge/Java-007396?logo=java&style=for-the-badge)
+![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&style=for-the-badge)
+![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
+![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=) 
+![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=)
+![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
+![Oracle](https://img.shields.io/badge/Oracle%20Database-F80000?logo=oracle&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&style=for-the-badge)
+
+
+### Deploy
+![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label=)
+
+### Productivity
+![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
+![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
+![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=)
+![Google Calendar](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Calendar&color=4285F4&logo=Google+Calendar&logoColor=FFFFFF&label=)
+
+### Operational Systems
+![Debian](https://img.shields.io/badge/Debian-Linux-A81D33?logo=debian&style=for-the-badge)
+![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
+![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
+
+### Version control
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?logo=gitlab&style=for-the-badge)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&style=for-the-badge)
+
+---
+
+### Connect with me:
+
+[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)][telegram]
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)][linkedin]
+[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)][gmail]
+
+[linkedin]: www.linkedin.com/in/geise-saunier-62a606143
+[telegram]: https://t.me/geisesaunier
+[gmail]: geisesaunier3939@gmail.com
 
 
