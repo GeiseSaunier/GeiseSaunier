@@ -33,19 +33,19 @@
 ### Front-end
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
-![JSP](https://img.shields.io/badge/JSP-JavaServer%20Pages-007396?logo=java&style=for-the-badge)
+![JSP](https://img.shields.io/badge/JSP-JavaServer%20Pages-007396?logo=jsp&style=for-the-badge)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 
 
 ### Back-end & Databases
-![Java](https://img.shields.io/badge/Java-007396?logo=java&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&style=for-the-badge)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=) 
 ![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=)
 ![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
-![Oracle](https://img.shields.io/badge/Oracle%20-F80000?logo=oracle&style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle%20-F80000?logo=oracle&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&style=for-the-badge)
 
 
@@ -53,13 +53,17 @@
 ![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label=)
 
 ### Productivity
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20-000000?logo=intellij-idea&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
+![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&style=for-the-badge)
+![Runrun.it](https://img.shields.io/badge/Runrun.it-0673E6?logo=runrunit&style=for-the-badge)
 ![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&style=for-the-badge)
 ![Google Calendar](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Calendar&color=4285F4&logo=Google+Calendar&logoColor=FFFFFF&label=)
 
 ### Operational Systems
-![Debian](https://img.shields.io/badge/Debian-Linux-A81D33?logo=debian&style=for-the-badge)
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
 
