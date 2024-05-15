@@ -11,7 +11,6 @@
 
 ## About me
 
-<img src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/coding_pixels.gif" align="right" height="140em"/>
 <ul>
     <li>💻 Bachelor of Software Engineering</li>
      <li>Educational Institutions: University of Brasília and Federal University of Amazonas</li>
