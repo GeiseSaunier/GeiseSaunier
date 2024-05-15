@@ -45,7 +45,7 @@
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=) 
 ![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=)
 ![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
-![Oracle](https://img.shields.io/badge/Oracle%20Database-F80000?logo=oracle&style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle%20-F80000?logo=oracle&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&style=for-the-badge)
 
 
