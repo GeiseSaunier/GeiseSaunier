@@ -78,8 +78,8 @@
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)][linkedin]
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)][gmail]
 
-[linkedin]: www.linkedin.com/in/geise-saunier-62a606143
+[linkedin]: https://www.linkedin.com/in/geise-saunier-62a606143/
 [telegram]: https://t.me/geisesaunier
-[gmail]: geisesaunier3939@gmail.com
+[gmail]: mailto:geisesaunier3939@gmail.com
 
 
