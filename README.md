@@ -14,7 +14,7 @@
 <ul>
     <li>💻 Bachelor of Software Engineering</li>
      <li>Educational Institutions: University of Brasília and Federal University of Amazonas</li>
-    <li>🌐 Backend Developer at Viltgroup 🌐</li>
+    <li>🌐 Backend Developer 🌐</li>
     <li> Currently, I work in web development with Java and Spring Boot, but I've begun studying .NET and JavaScript.</li>
     <li>I love watching soccer, UFC, and I follow some F1 races, but I also adore playing Magic, dominoes, and billiards. </li>
     <li>I'm using this profile to share personal projects</li>
