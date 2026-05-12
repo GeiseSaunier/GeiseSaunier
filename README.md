@@ -1,7 +1,17 @@
 <h2>Hey, guys! How are you doing?? I'm Geise Saunier</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=GeiseSaunier&show_icons=true&theme=bear&hide_border=true" width="410em" height="180em" align="left" border="none"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dridr1&layout=compact&theme=bear&hide_border=true" width="344em" height="180em" border="none" />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=GeiseSaunier&show_icons=true&theme=bear&hide_border=true&cache_seconds=30" 
+  width="410" 
+  height="180" 
+  align="left"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeiseSaunier&layout=compact&theme=bear&hide_border=true&cache_seconds=30" 
+  width="344" 
+  height="180" 
+/>
 
 <div>
   
